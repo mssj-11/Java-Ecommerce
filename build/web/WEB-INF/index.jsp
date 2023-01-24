@@ -155,8 +155,8 @@
 							<div class="item active">
 								<div class="col-sm-6">
 									<h1><span>E</span>-SHOPPER</h1>
-									<h3>Crea e-Commerce JAVA EE, JSP con pagos Online Paypal y Payu</h3>
-									<p>Aprende a crear una tienda virtual con carrito de compras y pagos en línea con JSP, JAVA EE, AJAX, JavaScript y MySQL. </p>
+									<h2>20% de descuento en ropa para dama</h2>
+									<p>Visita nuestras sucursales y accede a los descuentos especiales en ropa para dama antes que se termine el stock.  </p>
 									<button type="button" class="btn btn-default get">Comprar ahora</button>
 								</div>
 								<div class="col-sm-6">
@@ -919,7 +919,7 @@
 									</div>
 								</a>
 								<p>Marcas caseras</p>
-								<h2>24 DIC 2019</h2>
+								<h2>24 DIC 2022</h2>
 							</div>
 						</div>
 						
@@ -934,7 +934,7 @@
 									</div>
 								</a>
 								<p>Mujeres elegantes</p>
-								<h2>24 DIC 2019</h2>
+								<h2>24 DIC 2022</h2>
 							</div>
 						</div>
 						
@@ -949,7 +949,7 @@
 									</div>
 								</a>
 								<p>Ropa ejecutiva</p>
-								<h2>24 DIC 2018</h2>
+								<h2>24 DIC 2023</h2>
 							</div>
 						</div>
 						
@@ -964,7 +964,7 @@
 									</div>
 								</a>
 								<p>Promociones</p>
-								<h2>24 MAR 2018</h2>
+								<h2>24 MAR 2023</h2>
 							</div>
 						</div>
 					</div>
